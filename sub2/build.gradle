@@ -1,0 +1,3 @@
+dependencies {
+    compileOnly project(':sub1') //to get class from sub 1 module
+}
